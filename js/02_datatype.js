@@ -1,8 +1,8 @@
 "use strict"; // treate all js code in newer version
 
- alert(3+6)// error bcoz we are using nodejs not browser (browser understand document formet )
+ //alert(3+6)           /*error bcoz we are using nodejs not browser (browserunderstand document formet ) */
 
-console.log("dataTypes")
+console.log("<===dataTypes ====>")
 
 /*
 number => 2 ^ 52
@@ -16,9 +16,9 @@ object =>
 */
 
 console.log(typeof "vikrant")
-console.log(typeof null)
+console.log(typeof null)   //object 
 
-console.log(typeof undefined )
+console.log(typeof undefined )// undefined
 
 console.log(typeof "vikrant")
 
